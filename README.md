@@ -10,12 +10,14 @@
 - Je travaille actuellement sur des applications bureau (Electron/React) et le développement de plugins audio VST (C++).
 - J'approfondis mes connaissances sur le framework JUCE et le traitement numérique du signal.
 - i use nyarch btw.
+- Always learning.
 
 
 ## 🧠 My Focus Areas
 - Traitement du Signal Audio
 - Développement d'Applications Bureau (Electron, React, Python)
 - Programmation C++ (Framework JUCE, VST3)
+
 
 
 ## 📊 GitHub Stats & Trophies
